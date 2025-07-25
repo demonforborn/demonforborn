@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @demonforborn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-demonforborn/demonforborn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m ATHARVA PATEL
+- 👀 I’m interested in cybersecurity and ethical hacking,coding,AI & ML and especially in militry defence
+- 🌱 I’m  pursuing a Diploma in IT(information technology) at Silver Oak University in semester 3  
+- 💞️ KNOW-C,C++,basic phython and HTML
+- 📫 How to reach me-@atharvapatel9696@gmail.com
+- 😄 Pronouns:he/him
+- ⚡ little more-I am free minded guy who always open for creative ideas and opportunities
