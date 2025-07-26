@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ATHARVA PATEL
 - 👀 I’m interested in cybersecurity and ethical hacking,coding,AI & ML and especially in militry defence
 - 🌱 I’m  pursuing a Diploma in IT(information technology) at Silver Oak University in semester 3  
-- 💞️ KNOW-C,C++,basic phython and HTML
+- 💞️ KNOW-C,C++,basic phython and HTML,java 
 - 📫 How to reach me-@atharvapatel9696@gmail.com
 - 😄 Pronouns:he/him
 - ⚡ little more-I am free minded guy who always open for creative ideas and opportunities
